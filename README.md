@@ -34,8 +34,8 @@
 
 ## ⚙️Etapas
 
-- [ ] Header
-- [ ] Nav Menu
+- [x] Header
+- [x] Nav Menu
 - [ ] Home
 - [ ] Sobre
 - [ ] Serviços
