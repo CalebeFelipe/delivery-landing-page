@@ -36,7 +36,7 @@
 
 - [x] Header
 - [x] Nav Menu
-- [ ] Home
+- [x] Home
 - [ ] Sobre
 - [ ] Serviços
 - [ ] App
