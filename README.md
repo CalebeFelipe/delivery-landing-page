@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp; •
-  <a href="#-funcionalidades">Etapas</a>&nbsp; •
+  <a href="#-etapas">Etapas</a>&nbsp; •
   <a href="#-como-executar-o-projeto">Como executar o projeto</a>&nbsp; •
   <a href="#-tecnologias">Tecnologias</a> 
 </p>
@@ -23,7 +23,7 @@
 <img align="center" src="images/layout-desktop-full.png" alt="animação da interação com página">
 <br>-->
 
-<!--> Confira a aplicação:  <br>-->
+<!-- Confira a aplicação:  <br>-->
 
 
 ## 💻 Sobre o projeto
@@ -32,7 +32,7 @@
 
 ---
 
-## ⚙️ Etapas
+## ⚙️Etapas
 
 - [ ] Header
 - [ ] Nav Menu
