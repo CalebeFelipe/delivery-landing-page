@@ -38,7 +38,7 @@
 - [x] Nav Menu
 - [x] Home
 - [x] Sobre
-- [ ] Serviços
+- [x] Serviços
 - [ ] App
 - [ ] Contato
 - [ ] Footer
