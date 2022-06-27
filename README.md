@@ -41,7 +41,7 @@
 - [x] Serviços
 - [x] App
 - [x] Contato
-- [ ] Footer
+- [x] Footer
 - [ ] Tema Dark/Light
 - [ ] Media Queries
 
