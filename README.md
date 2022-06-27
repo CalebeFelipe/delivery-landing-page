@@ -39,7 +39,7 @@
 - [x] Home
 - [x] Sobre
 - [x] Serviços
-- [ ] App
+- [x] App
 - [ ] Contato
 - [ ] Footer
 - [ ] Tema Dark/Light
