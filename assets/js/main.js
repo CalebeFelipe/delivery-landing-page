@@ -31,7 +31,7 @@ const sections = document.querySelectorAll('section[id]')
 
 function scrollActive() {
     const scrollY = window.pageYOffset
-
+    
     sections.forEach( current => {
         const sectionHeight = current.offsetHeight,
             sectionTop = current.offsetTop - 50,
@@ -46,3 +46,13 @@ function scrollActive() {
 }
 
 window.addEventListener('scroll', scrollActive)
+
+/* Change Background Header */
+
+function scrollHeader() {
+    const header = document.getElementById('header')
+
+    if(this.scrollY >= 80) header.classList.add('scroll-header'); else header.classList.remove('scroll-header')
+}
+
+window.addEventListener('scroll', scrollHeader)
