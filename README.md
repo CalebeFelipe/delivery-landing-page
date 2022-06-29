@@ -42,7 +42,7 @@
 - [x] App
 - [x] Contato
 - [x] Footer
-- [ ] Tema Dark/Light
+- [x] Tema Dark/Light
 - [ ] Media Queries
 
 
