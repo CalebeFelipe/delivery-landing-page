@@ -43,7 +43,7 @@
 - [x] Contato
 - [x] Footer
 - [x] Tema Dark/Light
-- [ ] Media Queries
+- [x] Media Queries
 
 
 ---
