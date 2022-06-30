@@ -1,16 +1,16 @@
 // Import of partial files
 @import 'config/variables';
 @import 'base/base';
-@import 'components/about';
-@import 'components/app';
-@import 'components/buttons';
-@import 'components/contact';
-@import 'components/footer';
+@import 'theme/theme';
+@import 'layout/layout';
 @import 'components/header';
 @import 'components/home';
-@import 'components/mediaqueries';
-@import 'components/scroll';
+@import 'components/buttons';
+@import 'components/about';
 @import 'components/security';
 @import 'components/services';
-@import 'layout/layout';
-@import 'theme/theme';
+@import 'components/app';
+@import 'components/contact';
+@import 'components/footer';
+@import 'components/scroll';
+@import 'components/mediaqueries';
