@@ -19,11 +19,11 @@
   <a href="#-como-executar-o-projeto">Como executar o projeto</a>&nbsp; •
   <a href="#-tecnologias">Tecnologias</a> 
 </p>
-<!--<br />
-<img align="center" src="images/layout-desktop-full.png" alt="animação da interação com página">
-<br>-->
-
-<!-- Confira a aplicação:  <br>-->
+<br />
+<img align="center" src="assets/img/play.gif" alt="animação da interação com página">
+<br><br>
+ 
+> Confira a aplicação: https://deliveryoficial.netlify.app/ <br>
 
 
 ## 💻 Sobre o projeto
